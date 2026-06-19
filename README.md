@@ -52,3 +52,9 @@ This project helped me think more deeply about:
 - Ranking and explanation UX
 - User trust in recommendations
 - Fast prototyping with AI coding tools
+
+- ## Screenshots
+
+![Playlistour home](screenshots/playlistour-home.png)
+
+![Playlistour results](screenshots/playlistour-results.png)
